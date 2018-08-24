@@ -1,0 +1,25 @@
+{
+  "name": "shankyjain",
+  "version": "0.0.1",
+  "description": "All about Thinking and me",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainshanky/shankyjain.git"
+  },
+  "keywords": [
+    "js",
+    "vanilla-javascript",
+    "html",
+    "website"
+  ],
+  "author": "Shashank Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jainshanky/shankyjain/issues"
+  },
+  "homepage": "https://github.com/jainshanky/shankyjain#readme"
+}
